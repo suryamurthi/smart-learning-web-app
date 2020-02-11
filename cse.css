@@ -1,0 +1,12 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+  background: url(https://cdn5.vectorstock.com/i/1000x1000/07/89/computer-science-engineering-education-doodle-art-vector-23010789.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
